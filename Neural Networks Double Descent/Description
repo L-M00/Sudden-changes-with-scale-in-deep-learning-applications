@@ -1,0 +1,7 @@
+Double descent as searched for in neural networks.
+
+The notable finding from this body of code is that neural networks are much more robust against this kind of effect.
+
+Later work shows that double descent like effects, as well as sudden changes in generalisation behaviour, are more pronounced in neural networks than in linear models.
+
+However, at this stage, neural networks when applied to a simple curve fitting problem are more robust.
